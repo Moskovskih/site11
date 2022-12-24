@@ -13,4 +13,8 @@ a{
 body{
     padding-left: 100px;
 }
+footer a{
+    border-radius: 10px;
+    background-color: red;
+}
 
